@@ -172,15 +172,21 @@ namespace RockPaperScissors
             switch (choice)
             {
                 case 1:
+                    System.Threading.Thread.Sleep(1000);   
                     PrintVS();
+                    System.Threading.Thread.Sleep(1000);
                     PrintRock();
                     return "rock";
                 case 2:
+                    System.Threading.Thread.Sleep(1000);
                     PrintVS();
+                    System.Threading.Thread.Sleep(1000);
                     PrintPaper();
                     return "paper";
                 case 3:
+                    System.Threading.Thread.Sleep(1000);
                     PrintVS();
+                    System.Threading.Thread.Sleep(1000);
                     PrintScissors();
                     return "scissors";
                 default:
