@@ -4,3 +4,9 @@ c:\users\james colwill\documents\visual studio 2015\Projects\RockPaperScissors\R
 c:\users\james colwill\documents\visual studio 2015\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
 c:\users\james colwill\documents\visual studio 2015\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
 c:\users\james colwill\documents\visual studio 2015\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\James Colwill\Projects\GitHubProjects\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\James Colwill\Projects\GitHubProjects\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\James Colwill\Projects\GitHubProjects\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\James Colwill\Projects\GitHubProjects\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\James Colwill\Projects\GitHubProjects\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\James Colwill\Projects\GitHubProjects\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
